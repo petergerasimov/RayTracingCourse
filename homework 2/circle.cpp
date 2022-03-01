@@ -26,7 +26,7 @@ int main()
         }
     }
 
-    buffer.exportPPM("test.ppm");
+    buffer.exportPPM("circle.ppm");
 
 
     return EXIT_SUCCESS;
